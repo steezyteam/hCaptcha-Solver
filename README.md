@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
-[![Discord](https://img.shields.io/badge/Discord-Steezy%20Team-7289da?style=for-the-badge&logo=discord)](https://discord.gg/steezyteam)
+[![Discord](https://img.shields.io/badge/Discord-Steezy%20Team-7289da?style=for-the-badge&logo=discord)]([https://discord.gg/steezyteam](https://discord.gg/hH68zFqUTB))
 
 An advanced, multi-modal **hCaptcha automation framework** designed to handle complex challenges using computer vision and deep learning. From precision sliders to AI-powered image labeling, this solver is built to adapt.
 
@@ -49,7 +49,7 @@ Generates non-linear mouse paths using S-curve easing and randomized jitters to 
 Want to follow the development, see early-access demos, or join the team? Come to our Discord!
 Please leave me a star to keep me motivated!
 
-### [🔗 discord.gg/steezyteam](https://discord.gg/steezyteam)
+### [🔗 discord.gg/steezyteam]([https://discord.gg/steezyteam](https://discord.gg/hH68zFqUTB))
 
 ---
 
