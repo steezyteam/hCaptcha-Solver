@@ -49,7 +49,7 @@ Generates non-linear mouse paths using S-curve easing and randomized jitters to 
 Want to follow the development, see early-access demos, or join the team? Come to our Discord!
 Please leave me a star to keep me motivated!
 
-### [🔗 discord.gg/steezyteam]([https://discord.gg/steezyteam](https://discord.gg/hH68zFqUTB))
+### [🔗 discord.gg/steezyteam]([[https://discord.gg/steezyteam](https://discord.gg/hH68zFqUTB)](https://discord.gg/hH68zFqUTB))
 
 ---
 
